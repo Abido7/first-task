@@ -1,5 +1,4 @@
-$("#main").animate({ width: "100%", height: "100%" }, 2000, function () {
-  $("#firstWritings").fadeIn(2000, function () {
-    $("#myMain").slideDown(2000);
-  });
-});
+let firstName = document.getElementById("name");
+setTimeout(function () {
+  firstName.style.display = "block";
+}, 2000);
