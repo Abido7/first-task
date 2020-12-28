@@ -23,8 +23,8 @@ let yehia = {
 sayings.push(yehia)
 
 let hussein = {
-    body: "mohamed hussein",
-    author: "– Anne Frank",
+    body: "Life is like a landscape. You live in the midst of it but can describe it only from the vantage point of distance",
+    author: "– Charles Lindbergh",
 }
 sayings.push(hussein)
 
