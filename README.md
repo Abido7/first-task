@@ -1,2 +1,2 @@
 # first-task
-Add a function to make your name (within h1) appear in the webpage.
+Add an object, then add to it a qoute.
