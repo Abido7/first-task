@@ -74,3 +74,16 @@ h1 {
   transition: all 1s ease-in-out;
   padding: 7px;
 }
+.main {
+  background-image: url("../images/wp1991258.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+#demo,
+#author {
+  color: rgb(42, 165, 52);
+  font-family: "Hanalei Fill", cursive;
+  font-weight: 900;
+  font-size: xx-large;
+}
