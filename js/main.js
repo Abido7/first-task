@@ -12,8 +12,8 @@ let magdy = {
 sayings.push(magdy);
 
 let mahmoud = {
-  body: "mahmoud",
-  author: "mahmoud",
+  body: "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+  author: "Albert Einstein",
 };
 sayings.push(mahmoud);
 
