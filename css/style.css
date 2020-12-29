@@ -1,8 +1,11 @@
 /* #name {
   display: none;
 } */
+/* ============================ */
 
-* {
+
+
+ * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -79,11 +82,15 @@ h1 {
   background-size: cover;
   background-position: center center;
   height: 100vh;
-}
-#demo,
+} 
+
+/* =========================== */
+
+
+/* #demo,
 #author {
   color: rgb(42, 165, 52);
   font-family: "Hanalei Fill", cursive;
   font-weight: 900;
   font-size: xx-large;
-}
+} */
